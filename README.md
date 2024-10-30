@@ -1,8 +1,6 @@
 # webscraping-report-staking
  Os códigos apresentados exploram dados relevantes para identificar as melhores oportunidades de investimento em renda passiva com criptomoedas.
 
-Aqui está um exemplo de readme detalhado para o repositório do Jupyter Notebook com o relatório de análise de dados para staking:
-
 # Análise de Dados para Investimentos em Staking 
 
 Este repositório contém um notebook Jupyter com uma análise de dados de criptomoedas para identificar oportunidades de investimento em staking.
